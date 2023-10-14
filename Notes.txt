@@ -5,3 +5,5 @@
 The p element is used to create a paragraph of text on websites.<p>…</p>.
 
 Commenting allows you to leave messages without affecting the browser display. It also allows you to make code inactive. A comment in HTML starts with <!--, contains any number of lines of text, and ends with -->.
+
+HTML5 has some elements that identify different content areas. These elements make your HTML easier to read and help with Search Engine Optimization (SEO) and accessibility.These are semantic tags.ex - main tag which tells content inside it is main content of the page
